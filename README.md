@@ -1,0 +1,2 @@
+# dotNetCore
+dotnet core applications
